@@ -37,7 +37,7 @@
 17. Revenue by year
 18. Revenue loss by year
 
-## Summary of Findings
+## Summary of Findings (in progress)
  - There are 800 more male employees than female in general
  - 
 
