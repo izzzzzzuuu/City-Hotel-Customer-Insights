@@ -38,8 +38,9 @@
 18. Revenue loss by year
 
 ## Summary of Findings (in progress)
- - There are 800 more male employees than female in general
- - 
+- In the span of 4 years 53k of bookings were made, however, only about 37k which is 69.81%  customer confirmed their bookings.
+- Booking that is canceled or the customers does not show up accounts about more than a quarter (1/4) of the total bookings
+
 
 ## Limitations
 
