@@ -37,7 +37,7 @@
 17. Revenue by year
 18. Revenue loss by year
 
-## Summary of Findings/Analysis (in progress)
+## Summary of Findings/Analysis
 - In the span of 4 years 53k of bookings were made, however, only about 37k which is 69.81%  customer confirmed their bookings.
 - Booking that is canceled or the customers does not show up accounts about more than a quarter (1/4) of the total bookings
 - Highest bookings made are from Transient customer's type, followed by Transient-Party, Contract and lastly Group
@@ -55,7 +55,7 @@
 - Based on the table, highest revenue made is through online travel agent, with more than 8 million revenue being generated. On the other hand, in complementary market segment, the revenue generated is less than 2 thousands ringgit.
 - Lastly, the table shows the total revenue generated across 3 years between 2015 until 2017 are RM 12,113,271.78 excluding year 2014 because data is not complete and all bookings made on 2014 were canceled. Potential revenue that counts as hotel loss are RM 4,808,028.08 because of the cancellation that were made by the customers. Hotel management need to consider doing more marketing and offer more attractive deals to potential customers to reduce the loss revenue which is 1/3 of the generated revenue. 
 
-## Business suggestions (in progress)
+## Business suggestions
 - Maintain and improve marketing strategy for Transient customer's type as they were the highest customer's base type.
 -  Implement the strategy of marketing from Transient into Transient-Party, Contract and Group customers, to replicate the same success found on Transient customers. This can include giving a discount with terms and condition, promotions with certain timeframe or periods, and provide events, attractions, services or facilities to accomodate the customer, especially on holidays.
 - 'No deposit' is highly choosen as it gives them freedom and leisure to make a booking first without prior commitment or financial loss on their end.
