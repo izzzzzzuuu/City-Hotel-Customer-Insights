@@ -48,7 +48,12 @@
 - Majority of the bookings confirmed made is from new customers which represents 96.04% of the total confirmed bookings made, while only 3.96% of the customer is repeated customer across the 3 year span.
 - Most bookings made were on year 2016, while the least booking made is on year 2015. Total of new customer peaked at year 2016, presumably because of the major sports event which are UEFA EURO held in France, hence there are spike in hotel bookings specifically in Europe continent.
 - In scope of bookings made by **agents**, only 68.04% of total bookings were confirmed. Highest confirmed bookings were made by agent 9, followed loosely by agent 7, then agent 14.
-- In scope of bookings made by **company**, only 87.74% of total bookings were confirmed. Highest confirmed bookings were made by company 40, followed by company 45 then 153
+- In scope of bookings made by **company**, only 87.74% of total bookings were confirmed. Highest confirmed bookings were made by company 40, followed by company 45 then 153.
+- Highest distribution channel that customer uses to book hotel are through channel Travel Agent (TA) and/or Tour Operator (TO), second highest are through direct booking on hotel receptionist, followed by Corporate, Global Distribution Systems (GDS) and lastly are from undefined channel. The result is as it is presumably because, TA/TO is the most preferred by customers as it is easier and more convenient for them rather than has to physically attend to the hotel themselves. For corporate scenario, there is only certain company that will held an event at the hotel as it is costly hence the data reflects that. As for GDS, it is uncommon for people to use this channel if they were not a frequent traveller.
+- The data visualization and the table shows that the highest revenue generated are from TA/TO channel, and the least revenue generated are from GDS channel. The difference between each distribution channel is quite significant to one another, which reflects majority of the guests chose TA/TO channels or service to ensure their experience in booking hotel for their holiday is seamless and hassle-free as it is commonly in package deals.
+- On the market segment, the highest number of bookings made were through online travel agent (TA) market, secondly, offline travel agent and tour operator (TA/TO), and followed closely on third is direct market segment, with the difference is less than a thousand. Other markets segments such as corporate and groups does not exceed 3000 bookings, while complementary and aviation market does not even reaching a thousand number of bookings made.
+- Based on the table, highest revenue made is through online travel agent, with more than 8 million revenue being generated. On the other hand, in complementary market segment, the revenue generated is less than 2 thousands ringgit.
+- Lastly, the table shows the total revenue generated across 3 years between 2015 until 2017 are RM 12,113,271.78 excluding year 2014 because data is not complete and all bookings made on 2014 were canceled. Potential revenue that counts as hotel loss are RM 4,808,028.08 because of the cancellation that were made by the customers. Hotel management need to consider doing more marketing and offer more attractive deals to potential customers to reduce the loss revenue which is 1/3 of the generated revenue. 
 
 ## Business suggestions (in progress)
 - Maintain and improve marketing strategy for Transient customer's type as they were the highest customer's base type.
@@ -56,8 +61,13 @@
 - 'No deposit' is highly choosen as it gives them freedom and leisure to make a booking first without prior commitment or financial loss on their end.
 - To increase the likelihood of customer choosing 'Non refundable' deposit type, hotel can provides certain incentives such as free meal option between breakfast or dinner and lower price for 5% or 10% discount in price because of their commitment to bookings. Hence, the amount of customer that choose 'Non refund' deposit type can be improve.
 - The percentage of repeated customer is critically low which is only 3.96% and needed to be improve and increase. Suggestion to improve the low percentage of the repeated customer is to introduce a loyalty membership of the hotel and provide exclusive perks to the customer that has been to the hotel more than 1 time. Besides that, give redeemable points to the loyal customers based of their spending at the hotel in form of cashbacks or promotional price events.
-- 
+- Hotel managements need to maintain high numbers of conversion rate from booking to confirmed booking. This can be done by negotiating a win-win deals in terms of prices or commision reward for the highest contributor of the travel agents or the tour operator.
+- Hotel management also need to reduce the number of bookings canceled by improving a follow up notifications  and cater customer needs by improving booking services based on the customer feedbacks, if given.
+- It is suggested that hotel management, able to strike a deal with any high value corporate by offering them a promotion price for a month throughout the year to make it attractive for them to hold their company corporate event at the hotel.
+- GDS conversion rate for confirmed booking need to be improve. This can be done by highlighting the benefits and specific perks for customers that uses this channel.
+  
 
-## Limitations (in progress)
+## Limitations
 
-- Some 
+- There are incomplete data for year 2014, hence the performance of hotel for the year cant be accurately determine.
+- There are undefined value in the dataset that should have been impute by using mode value to replace it, however it will lead to data inaccuracy hence, it is left as it is. 
